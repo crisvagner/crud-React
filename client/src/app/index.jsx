@@ -4,17 +4,17 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'font-awesome/css/font-awesome.min.css'
 
-import Logo from '../components/Logo'
-import Nav from '../components/Nav'
-import Main from '../components/Main'
-import Footer from '../components/Footer'
+import Logo from '../components/logo'
+import Nav from '../components/navbar'
+import Home from '../pages/home'
+import Footer from '../components/footer'
 
 export default function App(props) {
     return (
         <div className="app">
             <Logo />
             <Nav />
-            <Main />
+            <Home />
             <Footer />
         </div>
     )
