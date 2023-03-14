@@ -1,14 +1,19 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "cris santos",
-            "email": "cris@gmail.com"
-        },
-        {
-            "id": 2,
-            "name": "vagner santos",
-            "email": "vagner@gmail.com"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "cris santos",
+      "email": "cris@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "vagner santos",
+      "email": "vagner@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "crisvagner santos",
+      "email": "crisvagner@gmail.com"
+    }
+  ]
 }
