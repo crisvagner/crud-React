@@ -8,22 +8,35 @@ Este projeto é um CRUD de usuários e está sendo desenvolvido usando as seguin
 - JavaScript
 - HTML
 - CSS
--
--
-
-### Observações
-
-Projeto ainda está em faze de desenvolvimento.
+- Json-Server
 
 ### Instruções
 
-Instala dependencias
+- Instala as dependencias da API fake:
 
 ```bash
+cd api
 npm install
 ```
 
-Inicia aplicação
+- Instala as dependencias do frontend da aplicação:
+
+```bash
+cd client
+npm install
+```
+
+- Inicia backend:
+
+> no diretório da pasta /api digite o seguinte comando:
+
+```bash
+npm start
+```
+
+- Inicia frontend:
+
+> no diretório da pasta /client digite o seguinte comando:
 
 ```bash
 npm start
