@@ -2,7 +2,7 @@
 
 ### Sobre o Projeto
 
-Este projeto é um CRUD de usuários e está sendo desenvolvido usando as seguintes tecnologias:
+Este projeto é um CRUD de usuários e foi desenvolvido usando as seguintes tecnologias:
 
 - React
 - JavaScript
